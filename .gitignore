@@ -1,0 +1,18 @@
+# Spring Boot
+target/
+*.log
+*.class
+
+# Angular
+node_modules/
+dist/
+.angular/
+
+# Eclipse / STS
+.metadata/
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
