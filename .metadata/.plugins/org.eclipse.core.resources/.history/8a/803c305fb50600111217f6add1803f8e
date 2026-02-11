@@ -1,5 +1,0 @@
-package com.app.aspects;
-
-public class ServiceExceptionAspect {
-
-}
