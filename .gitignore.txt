@@ -1,0 +1,31 @@
+# Angular
+node_modules/
+dist/
+.angular/
+.cache/
+
+# Logs
+npm-debug.log
+yarn-error.log
+
+# Environment
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Java / Spring Boot
+target/
+*.class
+*.log
+
+# Build
+build/
+
+# Metadata
+.metadata/

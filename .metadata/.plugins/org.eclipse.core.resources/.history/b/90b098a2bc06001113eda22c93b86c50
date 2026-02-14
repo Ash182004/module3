@@ -1,0 +1,5 @@
+package com.app.aspects;
+
+public class ExceptionHandlingAspect {
+
+}
