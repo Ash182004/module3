@@ -1,8 +1,19 @@
+<<<<<<< HEAD
 # Spring Boot
+=======
+# ===== Angular =====
+node_modules/
+dist/
+.angular/
+coverage/
+
+# ===== Spring Boot =====
+>>>>>>> 57d34fa1fd111fa88a576f35d84897b46d7f5f88
 target/
 *.log
 *.class
 
+<<<<<<< HEAD
 # Angular
 node_modules/
 dist/
@@ -16,3 +27,16 @@ dist/
 # OS
 .DS_Store
 Thumbs.db
+=======
+# ===== IDE Files =====
+.idea/
+.vscode/
+*.iml
+
+# ===== OS Files =====
+.DS_Store
+Thumbs.db
+
+# ===== Environment Files =====
+.env
+>>>>>>> 57d34fa1fd111fa88a576f35d84897b46d7f5f88
